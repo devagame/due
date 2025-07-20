@@ -2,7 +2,7 @@ package core
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/config"
+	"github.com/devagame/due/v2/config"
 	"github.com/fsnotify/fsnotify"
 	"io/fs"
 	"os"

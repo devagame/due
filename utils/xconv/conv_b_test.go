@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dobyte/due/v2/utils/xconv"
+	"github.com/devagame/due/v2/utils/xconv"
 )
 
 func TestB(t *testing.T) {

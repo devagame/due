@@ -1,7 +1,7 @@
 package cluster
 
 import (
-	"github.com/dobyte/due/v2/session"
+	"github.com/devagame/due/v2/session"
 )
 
 const (

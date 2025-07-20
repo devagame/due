@@ -2,8 +2,8 @@ package consul
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/utils/xconv"
+	"github.com/devagame/due/v2/registry"
+	"github.com/devagame/due/v2/utils/xconv"
 	"strings"
 )
 

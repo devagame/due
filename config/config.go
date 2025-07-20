@@ -2,7 +2,7 @@ package config
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/core/value"
+	"github.com/devagame/due/v2/core/value"
 )
 
 var globalConfigurator Configurator

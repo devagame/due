@@ -1,9 +1,9 @@
 package redis
 
 import (
-	"github.com/dobyte/due/v2/eventbus"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/task"
+	"github.com/devagame/due/v2/eventbus"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/task"
 	"reflect"
 	"sync"
 )

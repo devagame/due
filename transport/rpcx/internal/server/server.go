@@ -2,9 +2,9 @@ package server
 
 import (
 	"crypto/tls"
-	"github.com/dobyte/due/v2/core/endpoint"
-	xnet "github.com/dobyte/due/v2/core/net"
-	"github.com/dobyte/due/v2/errors"
+	"github.com/devagame/due/v2/core/endpoint"
+	xnet "github.com/devagame/due/v2/core/net"
+	"github.com/devagame/due/v2/errors"
 	"github.com/smallnest/rpcx/server"
 )
 

@@ -2,7 +2,7 @@ package client
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/packet"
+	"github.com/devagame/due/v2/packet"
 )
 
 type Context struct {

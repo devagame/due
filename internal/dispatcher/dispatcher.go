@@ -1,10 +1,10 @@
 package dispatcher
 
 import (
-	"github.com/dobyte/due/v2/core/endpoint"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/devagame/due/v2/core/endpoint"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/registry"
 	"sync"
 )
 

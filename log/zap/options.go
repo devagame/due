@@ -8,8 +8,8 @@
 package zap
 
 import (
-	"github.com/dobyte/due/v2/etc"
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/etc"
+	"github.com/devagame/due/v2/log"
 	"strings"
 	"time"
 )

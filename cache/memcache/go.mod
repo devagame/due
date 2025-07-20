@@ -1,10 +1,10 @@
-module github.com/dobyte/due/cache/memcache/v2
+module github.com/devagame/due/cache/memcache/v2
 
 go 1.23.0
 
 require (
 	github.com/bradfitz/gomemcache v0.0.0-20250403215159-8d39553ac7cf
-	github.com/dobyte/due/v2 v2.2.5
+	github.com/devagame/due/v2 v2.2.8
 	golang.org/x/sync v0.13.0
 )
 
@@ -23,4 +23,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/dobyte/due/v2 => ../../
+replace github.com/devagame/due/v2 => ../../

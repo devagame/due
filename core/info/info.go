@@ -2,18 +2,18 @@ package info
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/mode"
+	"github.com/devagame/due/v2/mode"
 	"strings"
 	"syscall"
 	"unicode/utf8"
 )
 
 const logo = `
-                    ____  __  ________
-                   / __ \/ / / / ____/	
-                  / / / / / / / __/
-                 / /_/ / /_/ / /___
-                /_____/\____/_____/
+                 ____  _______    _____ 
+                / __ \/ ____/ |  / /   |
+               / / / / __/  | | / / /| |
+              / /_/ / /___  | |/ / ___ |
+             /_____/_____/  |___/_/  |_|
 `
 
 const (
@@ -24,16 +24,17 @@ const (
 	rightTopBorder    = "┐"
 	leftBottomBorder  = "└"
 	rightBottomBorder = "┘"
-	website           = "https://github.com/dobyte/due"
-	version           = "v2.2.7"
+	version           = "v2.2.8"
 	global            = "Global"
 )
+
+var serverVersion = "-"
 
 func PrintFrameworkInfo() {
 	fmt.Println(strings.TrimSuffix(strings.TrimPrefix(logo, "\n"), "\n"))
 	PrintBoxInfo("",
-		fmt.Sprintf("[Website] %s", website),
-		fmt.Sprintf("[Version] %s", version),
+		fmt.Sprintf("[Version] %s", serverVersion),
+		fmt.Sprintf("[Framework Version] %s", version),
 	)
 }
 
@@ -86,4 +87,8 @@ func strLen(str ...string) int {
 	} else {
 		return 0
 	}
+}
+
+func SetVersion(ver string) {
+	serverVersion = ver
 }

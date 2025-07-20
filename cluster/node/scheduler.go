@@ -1,9 +1,9 @@
 package node
 
 import (
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/log"
 	"sync"
 )
 

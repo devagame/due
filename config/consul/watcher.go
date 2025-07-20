@@ -2,9 +2,9 @@ package consul
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/config"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/utils/xcall"
+	"github.com/devagame/due/v2/config"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/utils/xcall"
 	"github.com/hashicorp/consul/api"
 	"github.com/hashicorp/consul/api/watch"
 	"path/filepath"

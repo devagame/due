@@ -3,7 +3,7 @@ package xconv
 import (
 	"bytes"
 	"encoding/binary"
-	"github.com/dobyte/due/v2/encoding/json"
+	"github.com/devagame/due/v2/encoding/json"
 	"reflect"
 )
 

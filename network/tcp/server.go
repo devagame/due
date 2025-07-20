@@ -1,8 +1,8 @@
 package tcp
 
 import (
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/network"
 	"net"
 	"time"
 )

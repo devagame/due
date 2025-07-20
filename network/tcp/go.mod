@@ -1,8 +1,8 @@
-module github.com/dobyte/due/network/tcp/v2
+module github.com/devagame/due/network/tcp/v2
 
 go 1.23.0
 
-require github.com/dobyte/due/v2 v2.2.5
+require github.com/devagame/due/v2 v2.2.8
 
 require (
 	dario.cat/mergo v1.0.1 // indirect
@@ -22,4 +22,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/dobyte/due/v2 => ../../
+replace github.com/devagame/due/v2 => ../../

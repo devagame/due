@@ -2,8 +2,8 @@ package consul_test
 
 import (
 	"context"
-	"github.com/dobyte/due/config/consul/v2"
-	"github.com/dobyte/due/v2/config"
+	"github.com/devagame/due/config/consul/v2"
+	"github.com/devagame/due/v2/config"
 	"testing"
 	"time"
 )

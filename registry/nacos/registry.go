@@ -2,11 +2,11 @@ package nacos
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/encoding/json"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/utils/xconv"
+	"github.com/devagame/due/v2/encoding/json"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/registry"
+	"github.com/devagame/due/v2/utils/xconv"
 	"github.com/nacos-group/nacos-sdk-go/v2/clients"
 	"github.com/nacos-group/nacos-sdk-go/v2/common/constant"
 	"github.com/nacos-group/nacos-sdk-go/v2/model"

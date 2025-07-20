@@ -703,9 +703,3 @@ throughput (TPS)     : 128969
       <a style="line-height: 30px;float: left;margin-left: 10px;" href="https://github.com/kk-game/due-chat-vue-client" target="_blank">due-chat-vue-client</a>
    </li>
 </ul>
-
-### 17.交流与讨论
-
-<img title="" src="group_qrcode.jpeg" alt="交流群" width="175"><img title="" src="personal_qrcode.jpeg" alt="个人二维码" width="177">
-
-个人微信：yuebanfuxiao

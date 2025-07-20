@@ -1,7 +1,7 @@
 package tcp
 
 import (
-	"github.com/dobyte/due/v2/network"
+	"github.com/devagame/due/v2/network"
 	"net"
 	"sync/atomic"
 )

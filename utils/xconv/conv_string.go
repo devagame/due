@@ -2,7 +2,7 @@ package xconv
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/encoding/json"
+	"github.com/devagame/due/v2/encoding/json"
 	"reflect"
 	"strconv"
 	"time"
