@@ -3,8 +3,8 @@ package transport
 import (
 	"context"
 
-	"github.com/dobyte/due/v2/core/endpoint"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/devagame/due/v2/core/endpoint"
+	"github.com/devagame/due/v2/registry"
 )
 
 type Server interface {

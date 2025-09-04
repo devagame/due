@@ -1,7 +1,7 @@
 package direct
 
 import (
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/log"
 	cli "github.com/smallnest/rpcx/client"
 	"sync"
 	"time"

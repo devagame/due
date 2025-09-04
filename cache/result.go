@@ -3,7 +3,7 @@ package cache
 import (
 	"time"
 
-	"github.com/dobyte/due/v2/core/value"
+	"github.com/devagame/due/v2/core/value"
 )
 
 type Result interface {

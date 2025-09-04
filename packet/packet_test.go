@@ -2,8 +2,8 @@ package packet_test
 
 import (
 	"bytes"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/utils/xrand"
+	"github.com/devagame/due/v2/packet"
+	"github.com/devagame/due/v2/utils/xrand"
 	"testing"
 )
 

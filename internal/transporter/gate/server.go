@@ -3,10 +3,10 @@ package gate
 import (
 	"context"
 
-	"github.com/dobyte/due/v2/internal/transporter/internal/codes"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/internal/transporter/internal/route"
-	"github.com/dobyte/due/v2/internal/transporter/internal/server"
+	"github.com/devagame/due/v2/internal/transporter/internal/codes"
+	"github.com/devagame/due/v2/internal/transporter/internal/protocol"
+	"github.com/devagame/due/v2/internal/transporter/internal/route"
+	"github.com/devagame/due/v2/internal/transporter/internal/server"
 )
 
 type Server struct {

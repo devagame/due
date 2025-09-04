@@ -1,8 +1,8 @@
 package discovery
 
 import (
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/log"
 	"google.golang.org/grpc/balancer"
 	"google.golang.org/grpc/resolver"
 )

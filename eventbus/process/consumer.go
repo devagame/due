@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/dobyte/due/v2/eventbus/internal"
-	"github.com/dobyte/due/v2/task"
+	"github.com/devagame/due/v2/eventbus/internal"
+	"github.com/devagame/due/v2/task"
 )
 
 type consumer struct {

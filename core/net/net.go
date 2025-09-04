@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dobyte/due/v2/errors"
+	"github.com/devagame/due/v2/errors"
 )
 
 var urls = []string{
