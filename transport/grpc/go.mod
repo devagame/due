@@ -3,7 +3,7 @@ module github.com/devagame/due/transport/grpc/v2
 go 1.23.0
 
 require (
-	github.com/devagame/due/v2 v2.3.2
+	github.com/devagame/due/v2 v2.3.3
 	golang.org/x/sync v0.13.0
 	google.golang.org/grpc v1.71.1
 )
