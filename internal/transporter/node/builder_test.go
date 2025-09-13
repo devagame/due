@@ -2,9 +2,9 @@ package node_test
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/internal/transporter/node"
-	"github.com/dobyte/due/v2/utils/xuuid"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/internal/transporter/node"
+	"github.com/devagame/due/v2/utils/xuuid"
 	"testing"
 )
 

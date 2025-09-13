@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dobyte/due/cache/memcache/v2"
+	"github.com/devagame/due/cache/memcache/v2"
 )
 
 var cache = memcache.NewCache(

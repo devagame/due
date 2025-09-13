@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/transport"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/transport"
 )
 
 type Context interface {

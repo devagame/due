@@ -4,9 +4,9 @@ import (
 	"math/rand/v2"
 	"sync/atomic"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/endpoint"
-	"github.com/dobyte/due/v2/errors"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/core/endpoint"
+	"github.com/devagame/due/v2/errors"
 )
 
 type Route struct {

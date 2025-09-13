@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/network"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/network"
 )
 
 type Proxy struct {

@@ -1,7 +1,7 @@
 package log
 
 import (
-	"github.com/dobyte/due/v2/log/internal"
+	"github.com/devagame/due/v2/log/internal"
 )
 
 // Terminal 日志输出终端
