@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dobyte/due/v2/config"
-	"github.com/dobyte/due/v2/config/file"
+	"github.com/devagame/due/v2/config"
+	"github.com/devagame/due/v2/config/file"
 )
 
 func init() {

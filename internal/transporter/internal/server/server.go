@@ -5,12 +5,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dobyte/due/v2/core/endpoint"
-	xnet "github.com/dobyte/due/v2/core/net"
-	"github.com/dobyte/due/v2/internal/transporter/internal/codes"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/internal/transporter/internal/route"
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/core/endpoint"
+	xnet "github.com/devagame/due/v2/core/net"
+	"github.com/devagame/due/v2/internal/transporter/internal/codes"
+	"github.com/devagame/due/v2/internal/transporter/internal/protocol"
+	"github.com/devagame/due/v2/internal/transporter/internal/route"
+	"github.com/devagame/due/v2/log"
 )
 
 const scheme = "drpc"

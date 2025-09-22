@@ -4,8 +4,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/network"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/network"
 )
 
 const (

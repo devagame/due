@@ -1,11 +1,11 @@
 package protocol_test
 
 import (
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/internal/transporter/internal/codes"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/session"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/internal/transporter/internal/codes"
+	"github.com/devagame/due/v2/internal/transporter/internal/protocol"
+	"github.com/devagame/due/v2/packet"
+	"github.com/devagame/due/v2/session"
 	"testing"
 )
 

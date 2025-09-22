@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dobyte/due/v2/registry"
+	"github.com/devagame/due/v2/registry"
 )
 
 type watcher struct {

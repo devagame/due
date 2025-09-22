@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/log"
 )
 
 var globalMaker Maker

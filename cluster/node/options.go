@@ -5,14 +5,14 @@ import (
 	"maps"
 	"time"
 
-	"github.com/dobyte/due/v2/crypto"
-	"github.com/dobyte/due/v2/encoding"
-	"github.com/dobyte/due/v2/etc"
-	"github.com/dobyte/due/v2/locate"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/transport"
-	"github.com/dobyte/due/v2/utils/xuuid"
+	"github.com/devagame/due/v2/crypto"
+	"github.com/devagame/due/v2/encoding"
+	"github.com/devagame/due/v2/etc"
+	"github.com/devagame/due/v2/locate"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/registry"
+	"github.com/devagame/due/v2/transport"
+	"github.com/devagame/due/v2/utils/xuuid"
 )
 
 const (
