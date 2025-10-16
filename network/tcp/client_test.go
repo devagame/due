@@ -8,12 +8,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dobyte/due/network/tcp/v2"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/utils/xrand"
+	"github.com/devagame/due/network/tcp/v2"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/network"
+	"github.com/devagame/due/v2/packet"
+	"github.com/devagame/due/v2/utils/xrand"
 )
 
 func TestClient_Simple(t *testing.T) {

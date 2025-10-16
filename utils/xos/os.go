@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dobyte/due/v2/core/stat"
+	"github.com/devagame/due/v2/core/stat"
 )
 
 // Stat 获取文件信息

@@ -4,9 +4,9 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/internal/transporter/internal/route"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/internal/transporter/internal/route"
 )
 
 const (

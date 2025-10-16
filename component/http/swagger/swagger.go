@@ -6,7 +6,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/log"
 	"github.com/go-openapi/runtime/middleware"
 	"github.com/gofiber/fiber/v3"
 	"github.com/gofiber/fiber/v3/middleware/adaptor"

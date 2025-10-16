@@ -10,11 +10,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dobyte/due/v2/core/stack"
-	"github.com/dobyte/due/v2/log/console"
-	"github.com/dobyte/due/v2/log/file"
-	"github.com/dobyte/due/v2/log/internal"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/devagame/due/v2/core/stack"
+	"github.com/devagame/due/v2/log/console"
+	"github.com/devagame/due/v2/log/file"
+	"github.com/devagame/due/v2/log/internal"
+	"github.com/devagame/due/v2/utils/xtime"
 	"golang.org/x/sync/errgroup"
 )
 

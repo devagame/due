@@ -6,12 +6,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/internal/transporter/internal/def"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/internal/transporter/internal/def"
+	"github.com/devagame/due/v2/internal/transporter/internal/protocol"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/utils/xtime"
 )
 
 const (

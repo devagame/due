@@ -12,8 +12,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/utils/xcall"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/utils/xcall"
 	"github.com/gorilla/websocket"
 )
 

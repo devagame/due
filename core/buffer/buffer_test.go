@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/utils/xrand"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/utils/xrand"
 )
 
 type User struct {

@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/internal/transporter/gate"
-	"github.com/dobyte/due/v2/session"
-	"github.com/dobyte/due/v2/utils/xuuid"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/internal/transporter/gate"
+	"github.com/devagame/due/v2/session"
+	"github.com/devagame/due/v2/utils/xuuid"
 )
 
 func TestBuilder(t *testing.T) {

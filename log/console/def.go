@@ -1,6 +1,6 @@
 package console
 
-import "github.com/dobyte/due/v2/log/internal"
+import "github.com/devagame/due/v2/log/internal"
 
 // Format 日志输出格式
 type Format = internal.Format

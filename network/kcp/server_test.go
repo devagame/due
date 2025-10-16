@@ -5,11 +5,11 @@ import (
 	_ "net/http/pprof"
 	"testing"
 
-	"github.com/dobyte/due/network/kcp/v2"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/packet"
+	"github.com/devagame/due/network/kcp/v2"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/network"
+	"github.com/devagame/due/v2/packet"
 )
 
 func TestServer_Simple(t *testing.T) {

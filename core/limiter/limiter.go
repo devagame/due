@@ -1,7 +1,7 @@
 package limiter
 
 import (
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/devagame/due/v2/utils/xtime"
 	"sync"
 )
 

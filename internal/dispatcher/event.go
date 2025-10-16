@@ -1,6 +1,6 @@
 package dispatcher
 
-import "github.com/dobyte/due/v2/core/endpoint"
+import "github.com/devagame/due/v2/core/endpoint"
 
 type Event struct {
 	abstract
