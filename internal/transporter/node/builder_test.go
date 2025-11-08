@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/internal/transporter/node"
-	"github.com/dobyte/due/v2/utils/xuuid"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/internal/transporter/node"
+	"github.com/devagame/due/v2/utils/xuuid"
 )
 
 func TestBuilder(t *testing.T) {

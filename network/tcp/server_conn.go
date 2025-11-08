@@ -6,13 +6,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/utils/xcall"
-	"github.com/dobyte/due/v2/utils/xnet"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/network"
+	"github.com/devagame/due/v2/packet"
+	"github.com/devagame/due/v2/utils/xcall"
+	"github.com/devagame/due/v2/utils/xnet"
+	"github.com/devagame/due/v2/utils/xtime"
 )
 
 type serverConn struct {

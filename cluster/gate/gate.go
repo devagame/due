@@ -13,16 +13,16 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/component"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/core/info"
-	"github.com/dobyte/due/v2/core/net"
-	"github.com/dobyte/due/v2/internal/transporter/gate"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/session"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/component"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/core/info"
+	"github.com/devagame/due/v2/core/net"
+	"github.com/devagame/due/v2/internal/transporter/gate"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/network"
+	"github.com/devagame/due/v2/registry"
+	"github.com/devagame/due/v2/session"
 )
 
 type Gate struct {

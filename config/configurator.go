@@ -12,10 +12,10 @@ import (
 	"sync/atomic"
 
 	"dario.cat/mergo"
-	"github.com/dobyte/due/v2/core/value"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/utils/xconv"
-	"github.com/dobyte/due/v2/utils/xreflect"
+	"github.com/devagame/due/v2/core/value"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/utils/xconv"
+	"github.com/devagame/due/v2/utils/xreflect"
 	"github.com/jinzhu/copier"
 )
 

@@ -1,8 +1,8 @@
 package http
 
 import (
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/transport"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/transport"
 	"github.com/gofiber/fiber/v3"
 )
 

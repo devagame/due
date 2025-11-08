@@ -2,7 +2,7 @@ package etcd
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/config"
+	"github.com/devagame/due/v2/config"
 	"go.etcd.io/etcd/api/v3/mvccpb"
 	"go.etcd.io/etcd/client/v3"
 	"path/filepath"

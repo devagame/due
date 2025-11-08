@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/dobyte/due/v2/log/internal"
+	"github.com/devagame/due/v2/log/internal"
 )
 
 const Name = "console"

@@ -5,8 +5,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/utils/xcall"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/utils/xcall"
 )
 
 type Creator func(actor *Actor, args ...any) Processor

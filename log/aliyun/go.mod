@@ -1,10 +1,10 @@
-module github.com/dobyte/due/log/aliyun/v2
+module github.com/devagame/due/log/aliyun/v2
 
 go 1.23.0
 
 require (
 	github.com/aliyun/aliyun-log-go-sdk v0.1.100
-	github.com/dobyte/due/v2 v2.4.2
+	github.com/devagame/due/v2 v2.4.3
 )
 
 require (
@@ -37,4 +37,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/dobyte/due/v2 => ../../
+replace github.com/devagame/due/v2 => ../../

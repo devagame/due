@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/dobyte/due/v2/cache"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/utils/xconv"
-	"github.com/dobyte/due/v2/utils/xrand"
-	"github.com/dobyte/due/v2/utils/xreflect"
+	"github.com/devagame/due/v2/cache"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/utils/xconv"
+	"github.com/devagame/due/v2/utils/xrand"
+	"github.com/devagame/due/v2/utils/xreflect"
 	"golang.org/x/sync/errgroup"
 	"golang.org/x/sync/singleflight"
 )

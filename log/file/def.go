@@ -1,6 +1,6 @@
 package file
 
-import "github.com/dobyte/due/v2/log/internal"
+import "github.com/devagame/due/v2/log/internal"
 
 // 日志翻转规则
 type Rotate string

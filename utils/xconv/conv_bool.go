@@ -6,7 +6,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/dobyte/due/v2/utils/xreflect"
+	"github.com/devagame/due/v2/utils/xreflect"
 )
 
 func Bool(val any) bool {

@@ -3,9 +3,9 @@ package server
 import (
 	"net"
 
-	"github.com/dobyte/due/v2/core/endpoint"
-	xnet "github.com/dobyte/due/v2/core/net"
-	"github.com/dobyte/due/v2/errors"
+	"github.com/devagame/due/v2/core/endpoint"
+	xnet "github.com/devagame/due/v2/core/net"
+	"github.com/devagame/due/v2/errors"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 )

@@ -3,13 +3,13 @@ package gate
 import (
 	"context"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/internal/link"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/mode"
-	"github.com/dobyte/due/v2/packet"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/core/buffer"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/internal/link"
+	"github.com/devagame/due/v2/log"
+	"github.com/devagame/due/v2/mode"
+	"github.com/devagame/due/v2/packet"
 )
 
 type proxy struct {

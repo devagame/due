@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/internal/transporter/internal/server"
-	"github.com/dobyte/due/v2/internal/transporter/node"
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/internal/transporter/internal/server"
+	"github.com/devagame/due/v2/internal/transporter/node"
+	"github.com/devagame/due/v2/log"
 )
 
 func TestServer(t *testing.T) {

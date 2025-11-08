@@ -11,7 +11,7 @@ import (
 	"encoding/binary"
 	"net"
 
-	innernet "github.com/dobyte/due/v2/core/net"
+	innernet "github.com/devagame/due/v2/core/net"
 )
 
 // ExtractIP 提取主机地址

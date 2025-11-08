@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/dobyte/due/v2/utils/xconv"
+	"github.com/devagame/due/v2/utils/xconv"
 )
 
 func TestStringToBytes(t *testing.T) {

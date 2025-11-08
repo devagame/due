@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dobyte/due/v2/eventbus"
-	"github.com/dobyte/due/v2/eventbus/process"
+	"github.com/devagame/due/v2/eventbus"
+	"github.com/devagame/due/v2/eventbus/process"
 )
 
 const (

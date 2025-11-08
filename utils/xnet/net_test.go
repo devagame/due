@@ -1,7 +1,7 @@
 package xnet_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xnet"
+	"github.com/devagame/due/v2/utils/xnet"
 	"testing"
 )
 

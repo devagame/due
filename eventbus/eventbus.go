@@ -3,9 +3,9 @@ package eventbus
 import (
 	"context"
 
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/eventbus/internal"
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/eventbus/internal"
+	"github.com/devagame/due/v2/log"
 )
 
 var globalEventbus Eventbus

@@ -5,7 +5,7 @@ import (
 	"crypto/x509"
 	"os"
 
-	"github.com/dobyte/due/v2/errors"
+	"github.com/devagame/due/v2/errors"
 )
 
 func MakeRedisTLSConfig(certFile, keyFile, caFile string) (*tls.Config, error) {

@@ -3,7 +3,7 @@ package protocol
 import (
 	"encoding/binary"
 
-	"github.com/dobyte/due/v2/core/buffer"
+	"github.com/devagame/due/v2/core/buffer"
 )
 
 var heartbeat []byte

@@ -1,9 +1,9 @@
 package http
 
 import (
-	"github.com/dobyte/due/v2/etc"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/transport"
+	"github.com/devagame/due/v2/etc"
+	"github.com/devagame/due/v2/registry"
+	"github.com/devagame/due/v2/transport"
 )
 
 const (

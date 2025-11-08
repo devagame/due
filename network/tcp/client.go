@@ -5,8 +5,8 @@ import (
 	"net"
 	"sync/atomic"
 
-	ctls "github.com/dobyte/due/v2/core/tls"
-	"github.com/dobyte/due/v2/network"
+	ctls "github.com/devagame/due/v2/core/tls"
+	"github.com/devagame/due/v2/network"
 )
 
 type client struct {

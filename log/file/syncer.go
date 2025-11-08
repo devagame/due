@@ -14,10 +14,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log/internal"
-	"github.com/dobyte/due/v2/utils/xos"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/log/internal"
+	"github.com/devagame/due/v2/utils/xos"
+	"github.com/devagame/due/v2/utils/xtime"
 )
 
 const Name = "file"

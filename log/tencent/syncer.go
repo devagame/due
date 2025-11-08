@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/log"
 	cls "github.com/tencentcloud/tencentcloud-cls-sdk-go"
 )
 

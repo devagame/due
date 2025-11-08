@@ -8,13 +8,13 @@
 package encoding
 
 import (
-	"github.com/dobyte/due/v2/encoding/json"
-	"github.com/dobyte/due/v2/encoding/msgpack"
-	"github.com/dobyte/due/v2/encoding/proto"
-	"github.com/dobyte/due/v2/encoding/toml"
-	"github.com/dobyte/due/v2/encoding/xml"
-	"github.com/dobyte/due/v2/encoding/yaml"
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/encoding/json"
+	"github.com/devagame/due/v2/encoding/msgpack"
+	"github.com/devagame/due/v2/encoding/proto"
+	"github.com/devagame/due/v2/encoding/toml"
+	"github.com/devagame/due/v2/encoding/xml"
+	"github.com/devagame/due/v2/encoding/yaml"
+	"github.com/devagame/due/v2/log"
 )
 
 var codecs = make(map[string]Codec)

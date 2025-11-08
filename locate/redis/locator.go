@@ -7,12 +7,12 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/tls"
-	"github.com/dobyte/due/v2/encoding/json"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/locate"
-	"github.com/dobyte/due/v2/log"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/core/tls"
+	"github.com/devagame/due/v2/encoding/json"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/locate"
+	"github.com/devagame/due/v2/log"
 	"github.com/go-redis/redis/v8"
 	"golang.org/x/sync/singleflight"
 )

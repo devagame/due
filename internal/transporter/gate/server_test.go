@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/internal/transporter/gate"
-	"github.com/dobyte/due/v2/session"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/internal/transporter/gate"
+	"github.com/devagame/due/v2/session"
 )
 
 func TestServer(t *testing.T) {

@@ -3,7 +3,7 @@ package pool_test
 import (
 	"testing"
 
-	"github.com/dobyte/due/v2/core/pool"
+	"github.com/devagame/due/v2/core/pool"
 )
 
 func TestFactory_Get(t *testing.T) {

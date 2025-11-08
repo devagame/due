@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dobyte/due/v2/utils/xreflect"
+	"github.com/devagame/due/v2/utils/xreflect"
 )
 
 func Float64(val any) float64 {

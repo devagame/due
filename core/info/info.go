@@ -6,16 +6,16 @@ import (
 	"syscall"
 	"unicode/utf8"
 
-	"github.com/dobyte/due/v2/mode"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/devagame/due/v2/mode"
+	"github.com/devagame/due/v2/utils/xtime"
 )
 
 const logo = `
-                    ____  __  ________
-                   / __ \/ / / / ____/	
-                  / / / / / / / __/
-                 / /_/ / /_/ / /___
-                /_____/\____/_____/
+                 ____  _______    _____ 
+                / __ \/ ____/ |  / /   |
+               / / / / __/  | | / / /| |
+              / /_/ / /___  | |/ / ___ |
+             /_____/_____/  |___/_/  |_|
 `
 
 const (
@@ -26,8 +26,8 @@ const (
 	rightTopBorder    = "┐"
 	leftBottomBorder  = "└"
 	rightBottomBorder = "┘"
-	website           = "https://github.com/dobyte/due"
-	version           = "v2.4.2"
+	website           = "https://dev.devagame.com"
+	version           = "v2.4.3"
 	global            = "Global"
 )
 

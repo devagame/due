@@ -3,8 +3,8 @@ package protocol_test
 import (
 	"testing"
 
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/session"
+	"github.com/devagame/due/v2/internal/transporter/internal/protocol"
+	"github.com/devagame/due/v2/session"
 )
 
 func TestEncodeSubscribeReq(t *testing.T) {

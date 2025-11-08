@@ -10,8 +10,8 @@ package etcd
 import (
 	"context"
 	"fmt"
-	"github.com/dobyte/due/v2/encoding/json"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/devagame/due/v2/encoding/json"
+	"github.com/devagame/due/v2/registry"
 	"go.etcd.io/etcd/client/v3"
 	"sync"
 )

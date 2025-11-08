@@ -4,10 +4,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/internal/transporter/internal/client"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/devagame/due/v2/cluster"
+	"github.com/devagame/due/v2/errors"
+	"github.com/devagame/due/v2/internal/transporter/internal/client"
+	"github.com/devagame/due/v2/utils/xtime"
 	"golang.org/x/sync/singleflight"
 )
 

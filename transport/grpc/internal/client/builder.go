@@ -3,9 +3,9 @@ package client
 import (
 	"sync"
 
-	"github.com/dobyte/due/transport/grpc/v2/internal/resolver/direct"
-	"github.com/dobyte/due/transport/grpc/v2/internal/resolver/discovery"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/devagame/due/transport/grpc/v2/internal/resolver/direct"
+	"github.com/devagame/due/transport/grpc/v2/internal/resolver/discovery"
+	"github.com/devagame/due/v2/registry"
 	"golang.org/x/sync/singleflight"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
